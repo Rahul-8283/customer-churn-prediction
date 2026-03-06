@@ -46,9 +46,7 @@ Thumbs.db
 
 # Models and large files
 *.h5
-*.pkl
 *.joblib
-*.model
 
 test_preprocessed.csv
 train_preprocessed.csv
